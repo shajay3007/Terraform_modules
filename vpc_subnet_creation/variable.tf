@@ -5,3 +5,6 @@ variable "region" {
 variable "cidr_ip" {
   
 }
+variable "vpc_tag" {
+  
+}
