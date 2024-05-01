@@ -3,4 +3,4 @@ resource "aws_instance" "module" {
   instance_type = var.instance_type
   availability_zone = var.avzone
   subnet_id = var.subnet
-}   
+}
