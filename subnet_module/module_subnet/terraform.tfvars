@@ -1,0 +1,5 @@
+reg = "us-east-1"
+vpc_id = ""
+cidr_ip = ""
+av_zone = "us-east-1a"
+tag_name = "app_server_public"
